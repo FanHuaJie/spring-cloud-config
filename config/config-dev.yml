@@ -1,2 +1,2 @@
-config: 
-    dev: "[config][dev][version=1]"
+myconfig: "[config][dev][version=1]"
+    
